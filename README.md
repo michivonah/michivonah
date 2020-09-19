@@ -2,7 +2,7 @@
 ### Hi there, my name is Michi 👋
 
 # About me
-- 👨‍💻 I'm 14 years old
+- 👨‍💻 I'm 15 years old
 - 🇨🇭 I live in Switzerland
 - 📱 I'm currently working on creating this readme page 😉
 - 🌱 I’m currently learning to design awesome websites with html and css 🤩

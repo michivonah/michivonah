@@ -17,7 +17,8 @@
 <a href="https://github.com/"><img src="icons/GitHub-Mark-120px-plus.png" height="30px" width="30px"></a>
 <a href="https://jsfiddle.net/"><img src="https://jsfiddle.net/img/favicon.png" height="30px" width="30px"></a>
 <a href="https://atom.io/"><img src="https://github.githubassets.com/images/icons/emoji/atom.png" height="30px" width="30px"></a>
-<a href="https://fontawesome.com/"><img src="https://fontawesome.com/images/favicons/favicon-32x32.png" height="30px" width="30px"></a>
+<a href="https://fontawesome.com/"><img src="https://fontawesome.com/images/favicon/icon.svg" height="30px" width="30px"></a>
+<a href="https://notion.so/"><img src="https://www.notion.so/images/logo-ios.png" height="30px" width="30px"></a>
 
 <!-- Github Stats -->
 ### Stats

@@ -4,7 +4,7 @@
 ### Hi there, my name is Michi 👋
 
 # About me
-- 👨‍💻 I'm 15 years old
+- 👨‍💻 I'm 16 years old
 - 🇨🇭 I live in Switzerland
 - 📱 I'm currently working on a website for me 😉
 - 🌱 I’m currently learning to design awesome websites with html and css 🤩

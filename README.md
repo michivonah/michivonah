@@ -11,6 +11,7 @@
 
 ### Socialmedia
 <a href="https://www.instagram.com/michivonah/"><img src="https://cdn.pixabay.com/photo/2017/06/23/02/32/instagram-2433265_960_720.png" height="30px" width="30px"></a>
+<a href="https://www.instagram.com/vompictures/"><img src="https://cdn.pixabay.com/photo/2017/06/23/02/32/instagram-2433265_960_720.png" height="30px" width="30px"></a>
 <a href="https://twitter.com/michivonah"><img src="https://cdn.pixabay.com/photo/2017/06/22/14/23/twitter-2430933_960_720.png" height="30px" width="30px"></a>
 
 ### Programs that I use
@@ -19,6 +20,8 @@
 <a href="https://atom.io/"><img src="https://github.githubassets.com/images/icons/emoji/atom.png" height="30px" width="30px"></a>
 <a href="https://fontawesome.com/"><img src="https://fontawesome.com/images/favicon/icon.svg" height="30px" width="30px"></a>
 <a href="https://notion.so/"><img src="https://www.notion.so/images/logo-ios.png" height="30px" width="30px"></a>
+<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="30px" width="30px"></a>
+
 
 <!-- Github Stats -->
 ### Stats

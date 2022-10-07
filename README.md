@@ -10,12 +10,6 @@
 - 🏫 I am doing an apprenticeship as a Informatiker
 - 🌱 I’m currently learning to design awesome websites with html and css 🤩
 
-### Socialmedia
-<a href="https://www.instagram.com/michivonah/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30px" width="30px" alt="Icon from Wikipedia"></a>
-<a href="https://www.instagram.com/vompictures/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30px" width="30px" alt="Icon from Wikipedia"></a>
-<a href="https://twitter.com/michivonah"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="30px" width="30px" alt="Icon from Wikipedia"></a>
-<a href="https://in.michivonah.ch"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30px" width="30px" alt="Icon from flaticon.com"></a>
-
 ### Programs that I use
 <a href="https://github.com/"><img src="icons/GitHub-Mark-120px-plus.png" height="30px" width="30px"></a>
 <a href="https://jsfiddle.net/"><img src="https://jsfiddle.net/img/favicon.png" height="30px" width="30px"></a>

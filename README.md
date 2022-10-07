@@ -1,7 +1,8 @@
 <!-- Start -->
 
+
 <!-- Title -->
-### Hi there, my name is Michi 👋
+<img src="https://user-images.githubusercontent.com/68510046/194632031-2e25ebed-057f-484a-a6a0-67cedf0caf11.png" width="100%" height="auto">
 
 # About me
 - 👨‍💻 I'm 17 years old

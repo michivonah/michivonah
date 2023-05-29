@@ -8,20 +8,25 @@
 - 👨‍💻 I'm 17 years old
 - 🇨🇭 I live in Switzerland
 - 🏫 I am doing an apprenticeship as a Informatiker
-- 🌱 I’m currently learning to design awesome websites with html and css 🤩
+- 🌱 I’m currently learning python
 
-### Programs that I use
-<a href="https://github.com/"><img src="icons/GitHub-Mark-120px-plus.png" height="30px" width="30px"></a>
-<a href="https://jsfiddle.net/"><img src="https://jsfiddle.net/img/favicon.png" height="30px" width="30px"></a>
-<a href="https://fontawesome.com/"><img src="https://fontawesome.com/images/favicon/icon.svg" height="30px" width="30px"></a>
-<a href="https://notion.so/"><img src="https://www.notion.so/images/logo-ios.png" height="30px" width="30px"></a>
-<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="30px" width="30px"></a>
+### Tools which I use
+<a href="https://github.com/"><img src="icons/GitHub-Mark-120px-plus.png" height="40px" width="40px"></a>
+<a href="https://jsfiddle.net/"><img src="https://jsfiddle.net/img/favicon.png" height="40px" width="40px"></a>
+<a href="https://fontawesome.com/"><img src="https://fontawesome.com/images/favicon/icon.svg" height="40px" width="34px"></a>
+<a href="https://akaricons.com/"><img src="https://github.com/artcoholic/akar-icons-app/blob/main/public/images/favicon.png?raw=true" height="40px" width="40px"></a>
+<a href="https://notion.so/"><img src="https://www.notion.so/images/logo-ios.png" height="40px" width="40px"></a>
+<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="40px" width="40px"></a>
+<a href="https://fonts.google.com/"><img src="https://www.gstatic.com/images/branding/product/2x/google_fonts_96dp.png" height="40px" width="40px"></a>
 
-
-<!-- Github Stats -->
-### Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michivonah&hide=contribs,prs&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michivonah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Technologies I use
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" height="40px" width="40px"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="40px" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40px" width="40px">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40px" width="40px">
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="40px" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40px" width="40px">
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="40px" width="40px">
 
 
 <!-- End -->

@@ -14,6 +14,10 @@
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="40px" width="40px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40px" width="40px">
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="40px" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40px" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" height="40px" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" height="40px" width="40px">
+
 
 ### Tools which I use
 <a href="https://github.com/"><img src="icons/GitHub-Mark-120px-plus.png" height="40px" width="40px"></a>
@@ -23,3 +27,6 @@
 <a href="https://notion.so/"><img src="https://www.notion.so/images/logo-ios.png" height="40px" width="40px"></a>
 <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" height="40px" width="40px"></a>
 <a href="https://fonts.google.com/"><img src="https://www.gstatic.com/images/branding/product/2x/google_fonts_96dp.png" height="40px" width="40px"></a>
+<a href="https://chat.openai.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" height="40px" width="40px"></a>
+<a href="https://stackoverflow.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="40px" width="40px"></a>
+

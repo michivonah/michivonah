@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/68510046/194632031-2e25ebed-057f-484a-a6a0-67cedf0caf11.png" width="100%" height="auto">
 
 # About me
-- 👨‍💻 I'm 19 years old
+- 👨‍💻 I'm 20 years old
 - 🇨🇭 I live in Switzerland
-- 🏫 I am doing an apprenticeship as a Informatiker
-- 🌱 I’m currently learning Swift and SwitfUI
+- 🏫 I completed my apprenticeship as Informatiker EFZ Plattformentwicklung
+- 🌱 I’m currently learning TypeScript
 
 ### Technologies I use
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" height="40px" width="40px"></a>
